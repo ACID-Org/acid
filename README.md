@@ -18,3 +18,5 @@ Construir uma comunidade colaborativa para aprender, pesquisar e desenvolver sol
 ## Nossa filosofia
 
 > Aprendemos juntos. Construímos juntos. Hackeamos juntos.
+
+Testando o primeiro commit via WSL2
