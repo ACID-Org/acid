@@ -19,4 +19,4 @@ Construir uma comunidade colaborativa para aprender, pesquisar e desenvolver sol
 
 > Aprendemos juntos. Construímos juntos. Hackeamos juntos.
 
-
+> Testando o fluxo de contribuição da ACID.
